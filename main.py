@@ -1,0 +1,13 @@
+Name = "Swarup"
+Age = "9"
+Grade = "fourth grade"
+Color = "green"
+Food = "chapathi with panner (an Indian food)"
+numPets = "none"
+Profession = "scientist"
+Hobby = "reading"
+Passion = "biking"
+Netflix = "Pokemon"
+Youtube = "none"
+Experience = "5"
+print ("Hello, my name is",(Name),". I am ",(Age), "years old and I am going into",(Grade), ". My favorite color is", (Color), "and my favorite food is", (Food), ". I have", (numPets),"pets. I always dreamed that someday I would be a", (Profession),". Something I like to do for fun is", (Hobby), ". My favorite Netflix show is", (Netflix), "and my favorite youtuber is", (Youtube), ". I have coded", (Experience), "times in the past, and I am excited to learn to code!")
